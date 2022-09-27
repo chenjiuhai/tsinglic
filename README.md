@@ -1,1 +1,3 @@
 # tsinglic
+
+## license management
